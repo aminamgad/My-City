@@ -6,31 +6,6 @@
 	initial-value: 337deg;
 }
 
-.amin{
-    position: fixed;
-    font-size: 50px;
-    color: #070b32;
-    left: 45px;
-    top: 40px;
-    font-weight: 600;
-    text-shadow: 0 2px 0 #fffc,
-    2px 2px 3px #0002,
-    4px 2px 6px #0002,
-    6px 2px 9px #0002,
-    8px 2px 12px #0002,
-    10px 2px 15px #0002;
-    z-index: 10;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}.amin:hover,.amin:focus{
-    font-weight: 620;
-    color: #ffc71e;
-    text-shadow: 0 2px 0 black,
-    2px 2px 3px #ff9800,
-    4px 2px 6px #ffbf00,
-    6px 2px 9px #ffc71e,
-    8px 2px 12px #ffc71e,
-    10px 2px 15px #ffeb3b;
-}
 
 * {
 	transform-style: preserve-3d;
